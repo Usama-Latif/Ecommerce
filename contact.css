@@ -1,0 +1,71 @@
+/* Contact Background */
+.contact-bg {
+    background-image: url(contactImage.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+
+
+
+
+
+/* Background END */
+
+
+
+
+.form-main {
+    margin-left: 30px;
+    margin-top: 50px;
+
+    width: 60%;
+}
+
+.form-main h2 {
+    padding-bottom: 10px;
+    font-size: 50px;
+    color: #f17907;
+    text-align: end;
+}
+
+form {
+    padding: 30px;
+    /* background-color: #e4e0e0; */
+    width: 100%;
+}
+
+form label{
+    color: #f17907;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+input,
+textarea {
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    margin: 10px 0;
+    border:none;
+    border-radius: 4px;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type='submit'] {
+    width: 30%;
+    border: none;
+    background-color: #0066ff;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+input[type='submit']:hover {
+    background-color: #0243a5;
+}

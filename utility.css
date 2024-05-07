@@ -1,0 +1,32 @@
+.w-80 {
+    width: 80%;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-orange {
+    background-color: #f17907;
+}
+
+.orange {
+    color: #f17907;
+}
